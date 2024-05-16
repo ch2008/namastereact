@@ -1,2 +1,2 @@
 # namastereact
-learning react from Akshsy Saini
+learning react from Akshay Saini
