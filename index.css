@@ -1,0 +1,20 @@
+ #heading{
+   color:blue;
+}
+.parent{
+    display:flex;
+    align-Items:center;
+    justify-Content:center;
+    border:5px solid red;
+    max-width:400px;
+    height:auto;
+}
+.children{
+    display:flex;
+    align-Items:center;
+    justify-Content:center;
+    flex-Direction:column;
+    border:2px solid green;
+    max-width:80%;
+    padding:20px
+}
